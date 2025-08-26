@@ -19,7 +19,8 @@ branch_labels = None
 depends_on = None
 
 # Ruta al archivo JSON
-JSON_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'articles.json')
+JSON_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'app', 'data', 'articles.json'))
+
 
 # Crear la app con contexto Flask
 app = create_app()
@@ -61,7 +62,7 @@ def upgrade():
                existing_nullable=True)
 
     # Ejecutar la importación de artículos
-    import_articles()
+    # import_articles()
 
 def downgrade():
     """Revierte los cambios realizados en esta migración."""

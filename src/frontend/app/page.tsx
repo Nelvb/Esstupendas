@@ -1,9 +1,9 @@
 /**
  * page.tsx
- * 
- * Página principal de LHC Legal & Consulting.
- * Home con estructura limpia, secciones optimizadas para SEO y conversión.
- * Arquitectura profesional con título sobre parallax y separación clara de secciones.
+ *
+ * Página principal de Esstupendas, salón de estética en Sant Salvador (Coma-ruga).
+ * Optimizada para SEO local, Booksy y conversión de clientas.
+ * Estructura profesional, clara y escalable.
  */
 
 import React from "react";
@@ -14,126 +14,102 @@ import AreasGrid from "@/components/Home/AreasGrid";
 import ParallaxTitleSection from "@/components/Home/ParallaxTitleSection";
 import WhyChooseUs from "@/components/Home/WhyChooseUs";
 import ContactHomeCTA from "@/components/Home/ContactHomeCta";
-// import BasicContact from "@/components/Home/BasicContact";
-// import CTASection from "@/components/Home/CTASection";
 
-// Metadata REAL para SEO
+// Metadata REAL para SEO local
 export const metadata: Metadata = {
-  title: "LHC Legal & Consulting | Asesoría Legal Profesional en España",
-  description: "Asesoría legal moderna especializada en derecho laboral, herencias, divorcios, extranjería y más. Primera consulta gratuita.",
+  title: "Esstupendas | Estética Avanzada en Coma‑ruga (Sant Salvador)",
+  description:
+    "Centro de estética avanzada en Coma‑ruga. Tratamientos faciales, corporales, depilación, maderoterapia y más. Reserva fácil online con Booksy.",
   keywords: [
-    "abogado españa",
-    "asesoría legal",
-    "consulta legal gratuita",
-    "derecho laboral",
-    "herencias",
-    "divorcios",
-    "extranjería",
-    "derecho penal",
-    "LHC Legal"
+    "centro estética comarruga",
+    "salón belleza sant salvador",
+    "depilación cera",
+    "maderoterapia comarruga",
+    "limpieza facial",
+    "booksy estética",
+    "esstupendas",
+    "tratamientos corporales",
+    "estética avanzada"
   ].join(", "),
-  authors: [{ name: "LHC Legal & Consulting" }],
-  creator: "LHC Legal & Consulting",
-  publisher: "LHC Legal & Consulting",
+  authors: [{ name: "Esstupendas" }],
+  creator: "Esstupendas",
+  publisher: "Esstupendas",
   robots: {
     index: true,
     follow: true,
     googleBot: {
       index: true,
       follow: true,
-      'max-video-preview': -1,
-      'max-image-preview': 'large',
-      'max-snippet': -1,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
     },
   },
 };
 
-/**
- * Componente principal de la página home
- * Estructura optimizada para conversión y SEO con arquitectura profesional
- */
 export default function Home() {
   return (
     <main
       className="min-h-screen"
       role="main"
-      aria-label="Página principal de LHC Legal & Consulting"
+      aria-label="Página principal de Esstupendas"
     >
-      {/* Hero Section con carousel de áreas legales */}
+      {/* Hero Section con texto persuasivo + llamada a la acción */}
       <HeroSection />
 
-      {/* Grid de las 8 áreas legales principales - Sección independiente */}
+      {/* Sección de servicios destacados */}
       <AreasGrid />
 
-      {/* Layout con parallax y título profesional */}
+      {/* Parallax con propuesta de valor */}
       <PostHeroLayout
         titleSection={
           <ParallaxTitleSection
             title="¿Por qué elegir"
-            highlightTitle="LHC Legal & Consulting?"
-            subtitle="Somos una asesoría legal moderna que combina profesionalidad con cercanía."
-            highlightText="Nos comprometemos contigo."
+            highlightTitle="Esstupendas?"
+            subtitle="Un salón de estética en Coma‑ruga donde cuidamos cada detalle."
+            highlightText="Tu bienestar es nuestra prioridad."
             paddingY="py-20 lg:py-32"
           />
         }
       >
-        {/* WhyChooseUs - Solo las 4 cards (sin header) */}
+        {/* Beneficios destacados para clientas */}
         <WhyChooseUs />
 
-        
-
-        {/* Contacto básico con CTAs principales */}
-        {/* Comentado hasta crear el componente */}
+        {/* Otras secciones futuras (comentadas hasta implementarlas) */}
         {/* <BasicContact /> */}
-
-        {/* Sección de CTAs adicionales (FAQ, Blog, Nosotros) */}
-        {/* Comentado hasta crear el componente */}
         {/* <CTASection /> */}
-
       </PostHeroLayout>
 
+      {/* Call To Action final con botón Booksy */}
       <ContactHomeCTA />
 
-      {/* Datos estructurados REALES para SEO */}
+      {/* Datos estructurados REALES para SEO local */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "LegalService",
-            "name": "LHC Legal & Consulting",
-            "description": "Asesoría legal profesional moderna especializada en múltiples áreas del derecho en España.",
-            "serviceType": [
-              "Derecho Laboral",
-              "Derecho Civil",
-              "Derecho de Extranjería",
-              "Derecho Penal",
-              "Derecho Administrativo",
-              "Derecho Bancario",
-              "Derecho Mercantil",
-              "Derecho Fiscal"
-            ],
-            "areaServed": {
-              "@type": "Country",
-              "name": "España"
+            "@type": "BeautySalon",
+            "name": "Esstupendas",
+            "description":
+              "Centro de estética avanzada en Sant Salvador · Coma‑ruga. Depilación, tratamientos faciales, maderoterapia, radiofrecuencia y más.",
+            "url": "https://esstupendas.com", // Puedes cambiarlo más adelante
+            "email": "esstupendasbeautycenter@gmail.com",
+            "telephone": "+34 691 818 071",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "Avinguda de Palfuriana, 45",
+              "addressLocality": "Sant Salvador",
+              "addressRegion": "Tarragona",
+              "postalCode": "43880",
+              "addressCountry": "ES",
             },
-            "hasOfferCatalog": {
-              "@type": "OfferCatalog",
-              "name": "Servicios de Asesoría Legal",
-              "itemListElement": [
-                {
-                  "@type": "Offer",
-                  "itemOffered": {
-                    "@type": "Service",
-                    "name": "Primera Consulta Gratuita",
-                    "description": "Consulta legal gratuita sin compromiso"
-                  },
-                  "price": "0",
-                  "priceCurrency": "EUR"
-                }
-              ]
-            }
-          })
+            "openingHours": "Mo-Fr 09:30-19:30",
+            "sameAs": [
+              "https://booksy.com/es-es/70330_esstupend-s_cuidado-de-la-piel_52460_els-garrofers#ba_s=seo",
+              "https://www.instagram.com/esstupendas/"
+            ],
+          }),
         }}
       />
     </main>

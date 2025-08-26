@@ -1,9 +1,8 @@
 /**
  * next.config.js
  *
- * Configuración optimizada y profesional para LHC Legal & Consulting.
- * Compatible con Next.js 15.2.4 — incluye ajustes de seguridad, rendimiento,
- * manejo de imágenes, y redirecciones para API en desarrollo.
+ * Configuración optimizada y profesional para Esstupendas.
+ * Compatible con Next.js 15.2.x — SEO local, Booksy y backend Flask.
  */
 
 /** @type {import('next').NextConfig} */
@@ -29,6 +28,9 @@ const nextConfig = {
       process.env.NODE_ENV === 'production'
         ? 'http://backend:5000/api'
         : 'http://localhost:5000/api',
+
+    NEXT_PUBLIC_SITE_NAME: 'Esstupend@s',
+    NEXT_PUBLIC_BOOKSY_URL: 'https://booksy.com/es-es/70330_esstupend-s_cuidado-de-la-piel_52460_els-garrofers#ba_s=seo',
   },
 
   // Configuración de imágenes remotas y formatos modernos

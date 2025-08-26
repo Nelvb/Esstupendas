@@ -1,16 +1,12 @@
 /**
- * layout.tsx - Layout raíz de LHC Legal & Consulting
+ * layout.tsx - Layout raíz de Esstupendas
  *
- * Este archivo define el layout principal de toda la aplicación Next.js.
+ * Define el layout principal de la app Next.js.
  * Integra:
- * - Tipografía optimizada con Inter.
- * - Proveedor de estado global de cookies cumpliendo normativa RGPD.
- * - Sistema completo de consentimiento con banner y modal.
- * - Favicons compatibles con todos los navegadores modernos y dispositivos.
- *
- * IMPORTANTE:
- * - Todos los archivos favicon deben estar en la carpeta /public:
- *   favicon.ico, favicon-32x32.png, favicon-16x16.png, apple-touch-icon.png
+ * - Tipografía Inter
+ * - RGPD: CookieConsentProvider
+ * - Estructura global con Navbar/Footer
+ * - Metadata global para SEO y favicon (pendiente de subir)
  */
 
 import React from "react";
@@ -22,18 +18,18 @@ import { CookieConsentProvider } from "@/hooks/useCookieConsent";
 import CookieBanner from "@/components/cookies/CookieBanner";
 import CookieModal from "@/components/cookies/CookieModal";
 
-// Carga optimizada de tipografía Inter desde Google Fonts
+// Tipografía Google Fonts
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
   display: "swap",
 });
 
-// Metadata global para SEO y favicons (sin manifest)
+// Metadata global
 export const metadata: Metadata = {
-  title: "LHC Legal & Consulting | Asesoría Legal Profesional",
+  title: "Esstupendas | Estética Avanzada en Sant Salvador",
   description:
-    "Asesoría legal especializada en derecho laboral, herencias, divorcios y más. Primera consulta gratuita. Respuesta garantizada en 24h.",
+    "Centro de estética avanzada en Coma‑ruga y Sant Salvador. Manicuras, depilación, tratamientos faciales y corporales. Reserva online con Booksy.",
   icons: {
     icon: [
       { url: "/favicon.ico" },
@@ -56,11 +52,10 @@ export default function RootLayout({
           ${inter.variable}
           font-sans
           antialiased
-          text-[#1A1341]
+          text-black
           bg-white
         `}
       >
-        {/* Contexto global de cookies RGPD */}
         <CookieConsentProvider>
           <ClientLayout>{children}</ClientLayout>
           <CookieBanner />
