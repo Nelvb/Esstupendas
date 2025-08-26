@@ -1,0 +1,233 @@
+{
+  "id": "derecho-penal",
+  "title": "Derecho Penal",
+  "subtitle": "Defensa penal y juicios rápidos",
+  "heroDescription": "Si te acusan, tu defensa es nuestra prioridad. Especialistas en defensa penal con amplia experiencia en todo tipo de procedimientos. Asistencia al detenido 24h, juicios rápidos y procedimientos penales.",
+  "introduction": "El derecho penal protege tus derechos fundamentales cuando te enfrentas al poder punitivo del Estado. En LHC Legal & Consulting, defendemos con máximo rigor y profesionalidad a personas acusadas de cualquier tipo de delito.",
+  "contentSections": [
+    {
+      "title": "¿Qué es el Derecho Penal?",
+      "content": "<p>El derecho penal es la rama jurídica que establece los delitos, las penas y las medidas de seguridad aplicables a quienes los cometen. Su función principal es proteger los bienes jurídicos más importantes para la sociedad: la vida, la libertad, el patrimonio y la seguridad.</p><p>Nuestro equipo de penalistas cuenta con amplia experiencia en la defensa de todo tipo de procedimientos penales, desde delitos leves hasta causas complejas en Audiencia Provincial y Tribunal Superior de Justicia.</p>",
+      "order": 1
+    },
+    {
+      "title": "Nuestra Estrategia de Defensa",
+      "content": "<p>En LHC Legal & Consulting aplicamos una defensa técnica rigurosa y estratégica desde el primer momento:</p><ul><li><strong>Asistencia inmediata:</strong> Presencia en comisaría durante la detención para proteger tus derechos</li><li><strong>Análisis exhaustivo:</strong> Estudio detallado de la causa y búsqueda de todas las vías de defensa posibles</li><li><strong>Estrategia procesal:</strong> Planificación de la defensa según el tipo de procedimiento y tribunal competente</li><li><strong>Defensa integral:</strong> Acompañamiento completo hasta la resolución definitiva del caso</li></ul>",
+      "order": 2
+    }
+  ],
+  "subtopics": [
+    {
+      "title": "Asistencia al Detenido",
+      "description": "Defensa inmediata 24h en comisaría, Guardia Civil y juzgados de guardia",
+      "content": "Servicio de asistencia al detenido las 24 horas del día, todos los días del año. Presencia inmediata en comisaría para garantizar el cumplimiento de tus derechos constitucionales.",
+      "icon": "shield",
+      "hasPage": true,
+      "slug": "asistencia-detenido",
+      "extendedIntroduction": "Si te han detenido o van a detenerte, cada minuto cuenta. En LHC Legal & Consulting ofrecemos asistencia al detenido las 24 horas del día, los 365 días del año. Nuestros penalistas acuden inmediatamente a comisaría para proteger tus derechos desde el primer momento. Sabemos que una buena defensa en la fase policial puede ser decisiva para el resultado final del caso, por eso no descansamos hasta estar a tu lado.",
+      "keyPoints": [
+        "Acudimos inmediatamente a comisaría cualquier día del año, las 24 horas",
+        "Protegemos tus derechos fundamentales desde el momento de la detención",
+        "Te asesoramos sobre si declarar o acogerte al derecho a guardar silencio",
+        "Supervisamos que se cumplan todos los plazos legales de detención",
+        "Preparamos tu defensa desde la primera declaración para proteger tu futuro"
+      ]
+    },
+    {
+      "title": "Violencia de Género",
+      "description": "Defensa especializada en procedimientos de violencia doméstica y de género",
+      "content": "Defendemos tanto a víctimas como a investigados en procedimientos de violencia de género, con especial sensibilidad y conocimiento de la normativa específica.",
+      "icon": "heart-crack",
+      "hasPage": true,
+      "slug": "violencia-genero",
+      "extendedIntroduction": "Los casos de violencia de género requieren una defensa muy especializada debido a su complejidad legal y sensibilidad social. En LHC Legal & Consulting defendemos tanto a víctimas como a investigados con el máximo rigor profesional. Conocemos perfectamente la Ley de Violencia de Género y sabemos cómo actuar en estos procedimientos tan delicados. Nuestro objetivo es siempre proteger los derechos de nuestro cliente, sea cual sea su posición en el procedimiento.",
+      "keyPoints": [
+        "Defendemos con especialización en la compleja normativa de violencia de género",
+        "Protegemos a víctimas en su derecho a la reparación y medidas de protección",
+        "Defendemos a investigados garantizando presunción de inocencia y debido proceso",
+        "Gestionamos medidas cautelares: órdenes de alejamiento, prohibiciones de comunicación",
+        "Actuamos en juzgados especializados con conocimiento específico del procedimiento"
+      ]
+    },
+    {
+      "title": "Delitos contra el Patrimonio",
+      "description": "Robos, hurtos, estafas, apropiación indebida y delitos económicos",
+      "content": "Amplia experiencia en defensa de delitos patrimoniales: robos con fuerza, hurtos, estafas, apropiación indebida, alzamiento de bienes y delitos societarios.",
+      "icon": "banknote",
+      "hasPage": true,
+      "slug": "delitos-contra-patrimonio",
+      "extendedIntroduction": "Los delitos contra el patrimonio son muy frecuentes y pueden tener consecuencias graves para tu futuro. En LHC Legal & Consulting defendemos todo tipo de delitos patrimoniales, desde hurtos menores hasta estafas complejas y delitos económicos. Conocemos perfectamente las diferencias entre robo y hurto, estafa y apropiación indebida, y sabemos cómo conseguir la mejor defensa en cada caso. Nuestro objetivo es conseguir la absolución o, en su defecto, la mínima pena posible.",
+      "keyPoints": [
+        "Defendemos robos, hurtos, estafas y apropiaciones indebidas con estrategias específicas",
+        "Especializados en delitos económicos complejos y alzamiento de bienes",
+        "Conseguimos absoluciones demostrando falta de ánimo de lucro o error en los hechos",
+        "Negociamos conformidades ventajosas que eviten penas de prisión",
+        "Reclamamos atenuantes de reparación del daño y confesión para reducir penas"
+      ]
+    },
+    {
+      "title": "Delitos de Tráfico",
+      "description": "Conducción bajo influencia del alcohol, sin carnet y delitos contra la seguridad vial",
+      "content": "Especialistas en delitos de tráfico: alcoholemias, conducción sin permiso, velocidad excesiva y negativa a las pruebas de detección de alcohol.",
+      "icon": "car",
+      "hasPage": true,
+      "slug": "delitos-trafico",
+      "extendedIntroduction": "Los delitos de tráfico pueden costarte el carnet de conducir y tu libertad. En LHC Legal & Consulting somos especialistas en defender todo tipo de infracciones penales de tráfico: desde alcoholemias hasta conducción sin permiso. Conocemos perfectamente los procedimientos de control policial y sabemos cómo detectar irregularidades que pueden anular las pruebas. Tu derecho a conducir y tu libertad son demasiado importantes para arriesgarlos con una defensa inadecuada.",
+      "keyPoints": [
+        "Defendemos alcoholemias analizando la legalidad del control y las pruebas realizadas",
+        "Especializados en conducción sin permiso y con licencia retirada o caducada",
+        "Impugnamos controles de velocidad por radar cuando no cumplen los requisitos legales",
+        "Defendemos negativas a realizar pruebas de alcoholemia con estrategias específicas",
+        "Conseguimos absoluciones o penas alternativas que eviten la pérdida del permiso"
+      ]
+    },
+    {
+      "title": "Lesiones y Amenazas",
+      "description": "Defensa en delitos de lesiones, amenazas, coacciones y contra la integridad moral",
+      "content": "Defendemos casos de lesiones leves y graves, amenazas, coacciones, injurias, calumnias y delitos contra la integridad moral.",
+      "icon": "user-x",
+      "hasPage": true,
+      "slug": "lesiones-amenazas",
+      "extendedIntroduction": "Los delitos de lesiones y amenazas suelen surgir en contextos de conflictos personales que se han descontrolado. En LHC Legal & Consulting entendemos que a veces las situaciones se complican y puedes verte involucrado en un procedimiento penal sin haberlo buscado. Defendemos tanto casos de lesiones leves como graves, amenazas, coacciones y delitos contra el honor. Nuestro objetivo es demostrar tu inocencia o conseguir la mínima responsabilidad penal posible.",
+      "keyPoints": [
+        "Defendemos lesiones analizando partes médicos, testigos y circunstancias del caso",
+        "Especializados en amenazas demostrando falta de credibilidad o proporcionalidad",
+        "Alegamos legítima defensa cuando has actuado para protegerte a ti o a terceros",
+        "Conseguimos conformidades ventajosas en delitos leves para evitar antecedentes penales",
+        "Reclamamos atenuantes de arrebato, obcecación o reparación del daño"
+      ]
+    },
+    {
+      "title": "Recursos y Apelaciones",
+      "description": "Recursos de apelación, casación y revisión ante tribunales superiores",
+      "content": "Tramitamos recursos contra sentencias penales ante Audiencias Provinciales, Tribunal Supremo y Tribunal Constitucional cuando proceda.",
+      "icon": "scale",
+      "hasPage": true,
+      "slug": "recursos-apelaciones-penales",
+      "extendedIntroduction": "Una sentencia condenatoria no es el final del camino. En LHC Legal & Consulting somos especialistas en recursos penales ante tribunales superiores. Analizamos exhaustivamente cada sentencia para encontrar todos los motivos de recurso posibles: errores de hecho, vicios procesales, infracciones de ley o vulneraciones de derechos fundamentales. Nuestra experiencia en recursos nos permite conseguir absoluciones en segunda instancia o reducciones significativas de pena.",
+      "keyPoints": [
+        "Analizamos sentencias para detectar todos los motivos de recurso disponibles",
+        "Presentamos recursos de apelación ante Audiencias Provinciales con argumentación sólida",
+        "Tramitamos recursos de casación ante el Tribunal Supremo en casos complejos",
+        "Recurrimos en amparo ante el Tribunal Constitucional por vulneraciones de derechos fundamentales",
+        "Conseguimos absoluciones en segunda instancia o reducciones significativas de pena"
+      ]
+    }
+  ],
+  "otherServices": [
+    {
+      "title": "Delitos contra la salud pública",
+      "content": "Defensa en casos de tráfico de drogas, tanto en pequeñas cantidades como en organizaciones criminales."
+    },
+    {
+      "title": "Delitos económicos",
+      "content": "Especialización en delitos fiscales, blanqueo de capitales, estafa procesal y delitos societarios."
+    },
+    {
+      "title": "Delitos informáticos",
+      "content": "Defensa en casos de ciberdelincuencia, fraude informático, acceso ilícito a sistemas y pornografía infantil."
+    },
+    {
+      "title": "Delitos contra la libertad sexual",
+      "content": "Defensa técnica especializada en delitos de agresión y abuso sexual con máxima sensibilidad."
+    },
+    {
+      "title": "Delitos contra la Administración de Justicia",
+      "content": "Defensa en casos de falso testimonio, acusación y denuncia falsas, quebrantamiento de condena."
+    },
+    {
+      "title": "Delitos contra la Administración Pública",
+      "content": "Especialización en delitos de corrupción, prevaricación, malversación y tráfico de influencias."
+    },
+    {
+      "title": "Delitos contra el orden público",
+      "content": "Defensa en casos de desórdenes públicos, atentado contra la autoridad y tenencia ilícita de armas."
+    },
+    {
+      "title": "Delitos contra el honor",
+      "content": "Defensa y acusación en casos de injurias, calumnias y revelación de secretos."
+    },
+    {
+      "title": "Medidas cautelares",
+      "content": "Solicitud y oposición a medidas cautelares: prisión provisional, libertad condicional, alejamiento."
+    },
+    {
+      "title": "Responsabilidad civil derivada del delito",
+      "content": "Reclamación y defensa de responsabilidad civil por daños derivados de hechos delictivos."
+    },
+    {
+      "title": "Extradición y euroórdenes",
+      "content": "Defensa en procedimientos de extradición pasiva y activa, órdenes europeas de detención."
+    },
+    {
+      "title": "Menores infractores",
+      "content": "Defensa especializada en la jurisdicción de menores con conocimiento específico de la normativa aplicable."
+    },
+    {
+      "title": "Ejecución penal",
+      "content": "Asesoramiento en fase de ejecución: clasificación penitenciaria, permisos, libertad condicional."
+    },
+    {
+      "title": "Indultos y amnistías",
+      "content": "Tramitación de solicitudes de indulto parcial y total ante el Ministerio de Justicia."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué debo hacer si me detienen?",
+      "answer": "Ejercita tu derecho a permanecer en silencio hasta que llegue tu abogado. No declares sin asistencia letrada. Contacta inmediatamente con nosotros para asistencia al detenido las 24 horas."
+    },
+    {
+      "question": "¿Cuándo es obligatorio tener abogado en un proceso penal?",
+      "answer": "Es obligatorio tener abogado en todos los procedimientos penales desde el momento de la imputación. También es recomendable tener defensa técnica desde la fase de investigación policial."
+    },
+    {
+      "question": "¿Qué diferencia hay entre delito leve y delito grave?",
+      "answer": "Los delitos leves son infracciones menores que se castigan con penas leves (multa o localización permanente). Los delitos graves conllevan penas de prisión y se juzgan en Juzgado de lo Penal o Audiencia Provincial."
+    },
+    {
+      "question": "¿Puedo conseguir una sentencia absolutoria?",
+      "answer": "Sí, la absolución es posible cuando no se acredita la culpabilidad o existen dudas razonables. Nuestro objetivo es siempre la absolución, y si no es posible, conseguir la pena mínima."
+    },
+    {
+      "question": "¿Qué es la conformidad en un juicio penal?",
+      "answer": "La conformidad es un acuerdo con la acusación para evitar el juicio oral. Puede suponer reducción de pena, pero debe ser analizada cuidadosamente con tu abogado para valorar si conviene."
+    },
+    {
+      "question": "¿Puedo apelar una sentencia penal?",
+      "answer": "Sí, las sentencias de Juzgado de Instrucción y Juzgado de lo Penal pueden apelarse ante la Audiencia Provincial. Las de Audiencia Provincial pueden recurrirse en casación ante el Tribunal Supremo en casos específicos."
+    }
+  ],
+  "cta": {
+    "title": "¿Te enfrentas a un procedimiento penal?",
+    "description": "Tu libertad y futuro están en juego. No arriesgues con una defensa inadecuada. Nuestros penalistas te ofrecerán la mejor estrategia de defensa desde el primer momento."
+  },
+  "seo": {
+    "metaTitle": "Abogado Penalista Madrid | Defensa Penal 24h | LHC Legal",
+    "metaDescription": "Especialistas en defensa penal Madrid. Asistencia al detenido 24h, juicios rápidos, violencia de género. Defensa técnica rigurosa. Llamada inmediata.",
+    "keywords": [
+      "abogado penalista madrid",
+      "asistencia detenido 24h",
+      "defensa penal madrid",
+      "abogado juicio rapido",
+      "violencia genero defensa",
+      "delitos trafico madrid",
+      "lesiones amenazas abogado",
+      "estafa robo defensa",
+      "recurso sentencia penal",
+      "LHC Legal Madrid"
+    ],
+    "canonicalUrl": "https://lhclegal.es/areas/derecho-penal",
+    "ogImage": "https://res.cloudinary.com/lhclegal/image/upload/v1/og-images/derecho-penal.webp",
+    "structuredData": {
+      "serviceType": "Derecho Penal",
+      "description": "Servicios especializados en defensa penal y asistencia al detenido",
+      "areaServed": "Madrid, España",
+      "provider": {
+        "name": "LHC Legal & Consulting",
+        "url": "https://lhclegal.es",
+        "telephone": "+34691818071"
+      }
+    }
+  }
+}

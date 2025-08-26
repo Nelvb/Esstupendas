@@ -1,0 +1,233 @@
+{
+  "id": "derecho-mercantil",
+  "title": "Derecho Mercantil",
+  "subtitle": "Reclamación de impagos y asesoría empresarial",
+  "heroDescription": "Recuperamos tu dinero de clientes morosos. Especialistas en reclamación de impagos para autónomos y empresas. Procedimiento monitorio, gestión de deudas y asesoría mercantil integral.",
+  "introduction": "El derecho mercantil regula las relaciones comerciales entre empresas y autónomos. En LHC Legal & Consulting, nos especializamos en la recuperación de impagos y en el asesoramiento jurídico integral para el desarrollo de tu actividad empresarial.",
+  "contentSections": [
+    {
+      "title": "¿Qué es el Derecho Mercantil?",
+      "content": "<p>El derecho mercantil es la rama jurídica que regula las actividades comerciales, empresariales y las relaciones entre comerciantes. Abarca desde la constitución de sociedades hasta la resolución de conflictos comerciales, pasando por contratos mercantiles y reclamación de deudas.</p><p>Nuestro equipo especializado en derecho mercantil cuenta con amplia experiencia ayudando a autónomos, pymes y grandes empresas en la gestión jurídica de su actividad comercial, con especial énfasis en la recuperación efectiva de impagos.</p>",
+      "order": 1
+    },
+    {
+      "title": "Nuestros Servicios Mercantiles",
+      "content": "<p>Ofrecemos un servicio integral que cubre todas las necesidades jurídicas de tu actividad empresarial:</p><ul><li><strong>Reclamación de impagos:</strong> Recuperación efectiva de facturas pendientes mediante procedimiento monitorio y ejecutivo</li><li><strong>Asesoría contractual:</strong> Redacción y negociación de contratos mercantiles que protejan tus intereses</li><li><strong>Constitución de sociedades:</strong> Creación de SL, SA y otras formas societarias con asesoramiento fiscal</li><li><strong>Resolución de conflictos:</strong> Mediación y litigación en disputas comerciales entre empresas</li></ul>",
+      "order": 2
+    }
+  ],
+  "subtopics": [
+    {
+      "title": "Reclamación de Impagos",
+      "description": "Recuperación de facturas pendientes mediante procedimiento monitorio y ejecutivo",
+      "content": "Especializados en recuperar facturas impagadas de clientes morosos. Utilizamos procedimiento monitorio, ejecutivo y embargo de bienes para conseguir el cobro efectivo de tus deudas.",
+      "icon": "banknote",
+      "hasPage": true,
+      "slug": "reclamacion-impagos",
+      "extendedIntroduction": "Los impagos pueden arruinar tu negocio si no actúas a tiempo. En LHC Legal & Consulting somos especialistas en recuperar el dinero que tus clientes te deben, utilizando los procedimientos judiciales más eficaces. No importa si es una factura de 500 euros o de 50.000 euros, tenemos la experiencia y las herramientas legales necesarias para conseguir que cobres lo que es tuyo. Trabajamos con rapidez y eficacia para que puedas centrarte en hacer crecer tu negocio.",
+      "keyPoints": [
+        "Recuperamos facturas impagadas de cualquier cuantía con procedimientos rápidos y eficaces",
+        "Utilizamos procedimiento monitorio para conseguir títulos ejecutivos en 20-30 días",
+        "Embargamos cuentas bancarias, inmuebles y otros bienes del deudor moroso",
+        "Trabajamos con cuota de éxito en muchos casos: solo cobramos si recuperas tu dinero",
+        "Actuamos contra empresas en concurso de acreedores para maximizar tu cobro"
+      ]
+    },
+    {
+      "title": "Procedimiento Monitorio",
+      "description": "Vía judicial rápida y eficaz para reclamar deudas dinerarias de hasta 600.000€",
+      "content": "El procedimiento monitorio es la vía más rápida para reclamar deudas. Si el deudor no paga ni se opone en 20 días, obtienes título ejecutivo para embargar directamente sus bienes.",
+      "icon": "gavel",
+      "hasPage": true,
+      "slug": "procedimiento-monitorio",
+      "extendedIntroduction": "El procedimiento monitorio es el arma más poderosa que tienes para recuperar tus impagos de forma rápida. En LHC Legal & Consulting dominamos esta herramienta legal que permite conseguir un título ejecutivo contra tu deudor en apenas 20-30 días si no se opone. Una vez obtenido el título, podemos embargar directamente sus bienes sin necesidad de juicio. Es rápido, económico y muy efectivo para la mayoría de impagos comerciales.",
+      "keyPoints": [
+        "Conseguimos títulos ejecutivos en 20-30 días si el deudor no se opone al requerimiento",
+        "Podemos reclamar hasta 600.000 euros por deuda con documentación que la acredite",
+        "Si se opone, el procedimiento se convierte en juicio ordinario donde defendemos tus derechos",
+        "Una vez firme, podemos embargar cuentas, inmuebles y otros bienes inmediatamente",
+        "Es el procedimiento más rápido y económico para recuperar deudas comerciales"
+      ]
+    },
+    {
+      "title": "Contratos Mercantiles",
+      "description": "Redacción, revisión y negociación de contratos comerciales y empresariales",
+      "content": "Redactamos contratos de compraventa, suministro, distribución, franquicia, joint venture y todo tipo de acuerdos comerciales que protejan tu actividad empresarial.",
+      "icon": "file-text",
+      "hasPage": true,
+      "slug": "contratos-mercantiles",
+      "extendedIntroduction": "Un buen contrato es la mejor prevención contra futuros conflictos comerciales. En LHC Legal & Consulting redactamos contratos mercantiles que protejan realmente tus intereses empresariales. Desde contratos de compraventa hasta acuerdos de distribución complejos, nos aseguramos de que todas las cláusulas estén redactadas de forma clara y te favorezcan. También revisamos contratos que te propongan terceros para detectar cláusulas abusivas o desfavorables.",
+      "keyPoints": [
+        "Redactamos contratos personalizados que protejan específicamente tus intereses",
+        "Revisamos contratos propuestos por terceros para detectar cláusulas desfavorables",
+        "Negociamos términos comerciales, plazos de pago y condiciones de entrega",
+        "Incluimos cláusulas de resolución alternativa de conflictos y jurisdicción",
+        "Adaptamos los contratos a la normativa específica de tu sector empresarial"
+      ]
+    },
+    {
+      "title": "Constitución de Sociedades",
+      "description": "Creación de SL, SA, cooperativas y otras formas jurídicas empresariales",
+      "content": "Asesoramos en la elección de la forma societaria más adecuada y gestionamos todo el proceso de constitución con asesoramiento fiscal y laboral complementario.",
+      "icon": "building",
+      "hasPage": true,
+      "slug": "constitucion-sociedades",
+      "extendedIntroduction": "Elegir la forma jurídica adecuada para tu negocio es una decisión crucial que afectará a tu fiscalidad, responsabilidad y capacidad de crecimiento. En LHC Legal & Consulting te asesoramos sobre las ventajas e inconvenientes de cada opción: sociedad limitada, anónima, cooperativa o otras formas especiales. Gestionamos todo el proceso de constitución de forma ágil y te acompañamos con asesoramiento fiscal para que tu nueva empresa empiece con buen pie.",
+      "keyPoints": [
+        "Analizamos tu proyecto empresarial para recomendarte la forma jurídica más ventajosa",
+        "Gestionamos la constitución completa: estatutos, capital, registro mercantil y hacienda",
+        "Te asesoramos sobre beneficios fiscales para empresas de nueva creación",
+        "Preparamos pactos de socios y estructuras de gobierno corporativo",
+        "Coordinamos el alta en Seguridad Social, licencias y otros trámites necesarios"
+      ]
+    },
+    {
+      "title": "Conflictos Societarios",
+      "description": "Resolución de disputas entre socios, administradores y juntas de accionistas",
+      "content": "Mediamos y litigamos en conflictos societarios: disputas entre socios, impugnación de acuerdos sociales, responsabilidad de administradores y disolución de sociedades.",
+      "icon": "users-round",
+      "hasPage": true,
+      "slug": "conflictos-societarios",
+      "extendedIntroduction": "Los conflictos entre socios pueden paralizar una empresa y destruir años de trabajo. En LHC Legal & Consulting mediamos en disputas societarias buscando soluciones que preserven la continuidad del negocio. Cuando la mediación no es posible, defendemos tus derechos como socio con litigación especializada. Desde bloqueos en la toma de decisiones hasta exclusión de socios problemáticos, conocemos todas las herramientas legales disponibles.",
+      "keyPoints": [
+        "Mediamos en conflictos societarios buscando soluciones que preserven la empresa",
+        "Defendemos tus derechos como socio minoritario o mayoritario según el caso",
+        "Impugnamos acuerdos sociales nulos o perjudiciales para tus intereses",
+        "Gestionamos procesos de exclusión de socios y disolución de sociedades",
+        "Reclamamos responsabilidad de administradores por gestión desleal o negligente"
+      ]
+    },
+    {
+      "title": "Concurso de Acreedores",
+      "description": "Asesoramiento en situaciones de insolvencia empresarial y concursos",
+      "content": "Asesoramos tanto a empresas en dificultades como a acreedores en procedimientos concursales, convenios de acreedores y acuerdos extrajudiciales de pagos.",
+      "icon": "scale",
+      "hasPage": true,
+      "slug": "concurso-acreedores",
+      "extendedIntroduction": "Cuando una empresa no puede pagar sus deudas, el concurso de acreedores puede ser la única solución para salvar el negocio o liquidarlo ordenadamente. En LHC Legal & Consulting asesoramos tanto a empresas en crisis como a acreedores que quieren proteger sus créditos. Conocemos todas las alternativas: desde acuerdos extrajudiciales hasta convenios de acreedores, siempre buscando la mejor solución para cada situación específica.",
+      "keyPoints": [
+        "Asesoramos a empresas en crisis para encontrar la mejor salida a su situación",
+        "Defendemos a acreedores en concursos para maximizar el cobro de sus créditos",
+        "Gestionamos acuerdos extrajudiciales de pagos como alternativa al concurso",
+        "Preparamos convenios de acreedores viables que permitan la continuidad empresarial",
+        "Supervisamos el proceso concursal para proteger tus derechos en cada fase"
+      ]
+    }
+  ],
+  "otherServices": [
+    {
+      "title": "Cambio de denominación social",
+      "content": "Tramitación completa del cambio de nombre de sociedades mercantiles ante Registro Mercantil."
+    },
+    {
+      "title": "Aumentos y reducciones de capital",
+      "content": "Gestión de operaciones de modificación del capital social con cumplimiento de requisitos legales."
+    },
+    {
+      "title": "Transformación de sociedades",
+      "content": "Conversión de sociedades limitadas en anónimas y viceversa, con asesoramiento fiscal especializado."
+    },
+    {
+      "title": "Fusiones y escisiones",
+      "content": "Asesoramiento integral en operaciones de concentración empresarial y reestructuración societaria."
+    },
+    {
+      "title": "Disolución y liquidación",
+      "content": "Tramitación de disolución voluntaria y liquidación de sociedades mercantiles con reparto de activos."
+    },
+    {
+      "title": "Responsabilidad de administradores",
+      "content": "Defensa y reclamación de responsabilidad civil y mercantil de administradores sociales."
+    },
+    {
+      "title": "Contratos de distribución",
+      "content": "Redacción de contratos de agencia comercial, distribución exclusiva y concesión mercantil."
+    },
+    {
+      "title": "Propiedad industrial",
+      "content": "Registro de marcas, nombres comerciales, patentes y defensa de derechos de propiedad intelectual."
+    },
+    {
+      "title": "Competencia desleal",
+      "content": "Reclamaciones por actos de competencia desleal, imitación y aprovechamiento de reputación ajena."
+    },
+    {
+      "title": "Factoring y confirming",
+      "content": "Negociación de contratos de factoring, confirming y otras operaciones de financiación empresarial."
+    },
+    {
+      "title": "Auditoría legal empresarial",
+      "content": "Revisión integral del cumplimiento normativo y detección de riesgos legales en empresas."
+    },
+    {
+      "title": "Compliance mercantil",
+      "content": "Implementación de programas de cumplimiento normativo en derecho mercantil y societario."
+    },
+    {
+      "title": "Contratos internacionales",
+      "content": "Redacción de contratos de comercio internacional con cláusulas de arbitraje y legislación aplicable."
+    },
+    {
+      "title": "Joint ventures y alianzas",
+      "content": "Estructuración jurídica de joint ventures, consorcios y alianzas estratégicas empresariales."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Cuánto tiempo se tarda en recuperar un impago mediante procedimiento monitorio?",
+      "answer": "Si el deudor no se opone, puedes obtener título ejecutivo en 20-30 días. Si se opone, se convierte en juicio ordinario que puede durar 6-12 meses. En caso de embargo, la recuperación efectiva puede tardar 2-6 meses adicionales."
+    },
+    {
+      "question": "¿Puedo reclamar intereses de demora por el impago?",
+      "answer": "Sí, puedes reclamar intereses de demora desde el vencimiento de la factura. Para operaciones comerciales, el interés legal es del 8% anual más 8 puntos adicionales (16% total en 2025)."
+    },
+    {
+      "question": "¿Qué hago si mi cliente se declara en concurso de acreedores?",
+      "answer": "Debes comunicar tu crédito en el concurso dentro del plazo establecido. Te asesoramos para maximizar las posibilidades de cobro y defender tus derechos como acreedor en el procedimiento concursal."
+    },
+    {
+      "question": "¿Necesito tener una sociedad constituida para ser autónomo?",
+      "answer": "No, puedes trabajar como autónomo persona física. Sin embargo, constituir una SL puede tener ventajas fiscales y de responsabilidad. Analizamos tu caso para recomendarte la mejor opción."
+    },
+    {
+      "question": "¿Cuánto cuesta constituir una sociedad limitada?",
+      "answer": "Una SL tiene un capital mínimo de 3.006€ y tasas registrales de aproximadamente 150€. Nuestros honorarios profesionales incluyen redacción de estatutos, gestión registral y asesoramiento fiscal inicial."
+    },
+    {
+      "question": "¿Qué responsabilidad tienen los administradores de una sociedad?",
+      "answer": "Los administradores responden por daños causados por actos contrarios a la ley, estatutos o realizados sin la diligencia de un ordenado empresario. Esta responsabilidad es personal y solidaria."
+    }
+  ],
+  "cta": {
+    "title": "¿Tienes facturas sin cobrar?",
+    "description": "No permitas que los impagos arruinen tu negocio. Recuperamos tu dinero de forma rápida y eficaz. Trabajamos con cuota de éxito en muchos casos."
+  },
+  "seo": {
+    "metaTitle": "Abogado Mercantil Madrid | Reclamación Impagos | LHC Legal",
+    "metaDescription": "Especialistas en derecho mercantil Madrid. Recuperamos impagos, procedimiento monitorio, contratos mercantiles. Asesoría empresarial integral. Consulta gratuita.",
+    "keywords": [
+      "abogado mercantil madrid",
+      "reclamacion impagos",
+      "procedimiento monitorio",
+      "recuperar facturas impagadas",
+      "contratos mercantiles",
+      "constituir sociedad",
+      "conflictos societarios",
+      "concurso acreedores",
+      "asesoría empresarial",
+      "LHC Legal Madrid"
+    ],
+    "canonicalUrl": "https://lhclegal.es/areas/derecho-mercantil",
+    "ogImage": "https://res.cloudinary.com/lhclegal/image/upload/v1/og-images/derecho-mercantil.webp",
+    "structuredData": {
+      "serviceType": "Derecho Mercantil",
+      "description": "Servicios especializados en derecho mercantil, reclamación de impagos y asesoría empresarial",
+      "areaServed": "Madrid, España",
+      "provider": {
+        "name": "LHC Legal & Consulting",
+        "url": "https://lhclegal.es",
+        "telephone": "+34691818071"
+      }
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "id": "derecho-laboral",
+  "title": "Derecho Laboral",
+  "subtitle": "Despidos, reclamaciones salariales y contratos de trabajo",
+  "heroDescription": "Defendemos tus derechos como trabajador. Especialistas en despidos improcedentes, reclamaciones salariales, ERTEs y modificaciones sustanciales. Tu trabajo merece la mejor defensa legal.",
+  "introduction": "El derecho laboral protege los derechos fundamentales de trabajadores y autónomos. En LHC Legal & Consulting, contamos con amplia experiencia defendiendo a trabajadores en toda España frente a situaciones laborales injustas.",
+  "contentSections": [
+    {
+      "title": "¿Qué es el Derecho Laboral?",
+      "content": "<p>El derecho laboral regula las relaciones entre empleadores y trabajadores, estableciendo los derechos y obligaciones de ambas partes. Abarca desde la contratación hasta la extinción del contrato, pasando por condiciones de trabajo, salarios y medidas disciplinarias.</p><p>Nuestro despacho se especializa en la defensa de trabajadores por cuenta ajena y autónomos, con especial experiencia en despidos improcedentes, reclamaciones de cantidad y modificaciones sustanciales de condiciones de trabajo.</p>",
+      "order": 1
+    },
+    {
+      "title": "Nuestro Método de Trabajo",
+      "content": "<p>Ofrecemos una defensa integral que cubre todas las fases del conflicto laboral, desde la negociación previa hasta la ejecución de sentencias favorables:</p><ul><li><strong>Asesoramiento preventivo:</strong> Análisis de contratos y situaciones laborales antes de que se conviertan en conflictos</li><li><strong>Defensa especializada:</strong> Representación en juicios laborales con estrategias probatorias efectivas</li><li><strong>Negociación avanzada:</strong> Mediación y conciliación para lograr acuerdos beneficiosos sin llegar a juicio</li><li><strong>Ejecución de sentencias:</strong> Seguimiento completo hasta el cobro efectivo de las indemnizaciones</li></ul>",
+      "order": 2
+    }
+  ],
+  "subtopics": [
+    {
+      "title": "Despidos Improcedentes",
+      "description": "Defensa integral en despidos objetivos, disciplinarios y colectivos con máxima indemnización",
+      "content": "Analizamos la procedencia del despido, vicios en el procedimiento y calculamos la indemnización máxima que te corresponde. Experiencia en despidos por causas económicas, técnicas y organizativas.",
+      "icon": "user-x",
+      "hasPage": true,
+      "slug": "despidos-improcedentes",
+      "extendedIntroduction": "Si te han despedido y crees que ha sido injusto, no estás solo. En LHC Legal & Consulting sabemos lo que supone perder tu trabajo de forma inesperada y las preocupaciones económicas y emocionales que esto conlleva. Por eso, nos especializamos en defender a trabajadores como tú, analizando cada detalle del despido para conseguir la máxima indemnización posible. Nuestro objetivo es claro: proteger tus derechos y asegurar que recibas lo que realmente te corresponde por ley.",
+      "keyPoints": [
+        "Revisamos minuciosamente si tu despido cumple todos los requisitos legales",
+        "Calculamos la indemnización exacta que te corresponde según tu situación",
+        "Te acompañamos y asesoramos en cada paso del proceso judicial",
+        "Buscamos siempre la máxima compensación económica para tu caso",
+        "Ofrecemos un trato cercano y humano en un momento tan difícil"
+      ]
+    },
+    {
+      "title": "Reclamaciones de Cantidad",
+      "description": "Recuperación de salarios impagados, horas extras, pagas extraordinarias y finiquitos",
+      "content": "Reclamamos todo tipo de conceptos salariales: salarios base, complementos, horas extraordinarias, pagas extras, vacaciones no disfrutadas y conceptos del finiquito.",
+      "icon": "euro",
+      "hasPage": true,
+      "slug": "reclamaciones-cantidad",
+      "extendedIntroduction": "¿Tu empresa te debe dinero? Ya sean nóminas atrasadas, horas extra sin pagar, pagas extraordinarias o un finiquito incorrecto, tienes derecho a reclamar todo lo que te corresponde. En LHC Legal & Consulting entendemos la frustración de trabajar y no cobrar lo que mereces. Por eso, nos especializamos en recuperar todos esos conceptos salariales que tu empresa te debe, desde los más básicos hasta los más complejos.",
+      "keyPoints": [
+        "Analizamos tu nómina y contrato para identificar todos los impagos",
+        "Reclamamos salarios, complementos, horas extras y pagas extraordinarias",
+        "Revisamos que tu finiquito incluya todos los conceptos que te corresponden",
+        "Calculamos intereses y recargos por los pagos realizados fuera de plazo",
+        "Gestionamos el cobro efectivo de todas las cantidades adeudadas"
+      ]
+    },
+    {
+      "title": "Modificaciones Sustanciales",
+      "description": "Defensa ante cambios unilaterales de horario, funciones, salario o lugar de trabajo",
+      "content": "Impugnamos modificaciones sustanciales que perjudiquen tus condiciones laborales, incluyendo cambios de turno, reducción salarial y traslados no consentidos.",
+      "icon": "settings",
+      "hasPage": true,
+      "slug": "modificaciones-sustanciales",
+      "extendedIntroduction": "¿Tu empresa ha cambiado tu horario, tus funciones, tu salario o tu lugar de trabajo sin tu consentimiento? No tienes por qué aceptarlo. Las modificaciones sustanciales de las condiciones de trabajo tienen límites legales muy claros. En LHC Legal & Consulting te ayudamos a defender tus condiciones laborales originales o, en su caso, a obtener la compensación que te corresponde por estos cambios perjudiciales.",
+      "keyPoints": [
+        "Evaluamos si la modificación de tus condiciones es legal y justificada",
+        "Defendemos tu derecho a mantener tus condiciones laborales originales",
+        "Impugnamos cambios de horario, funciones o lugar de trabajo perjudiciales",
+        "Reclamamos compensaciones económicas cuando la modificación es inevitable",
+        "Te asesoramos sobre tus opciones: aceptación, impugnación o extinción del contrato"
+      ]
+    },
+    {
+      "title": "Acoso Laboral y Mobbing",
+      "description": "Especialistas en casos de acoso psicológico, discriminación y ambiente laboral tóxico",
+      "content": "Defendemos víctimas de acoso laboral, mobbing, discriminación por género, edad o cualquier otra causa. Estrategias probatorias específicas para estos casos tan delicados.",
+      "icon": "shield-alert",
+      "hasPage": true,
+      "slug": "acoso-laboral-mobbing",
+      "extendedIntroduction": "El acoso laboral es una realidad que nadie debería soportar. Si estás viviendo situaciones de mobbing, discriminación o un ambiente laboral tóxico, es importante que sepas que tienes derechos y que hay formas legales de protegerte. En LHC Legal & Consulting entendemos la delicadeza de estas situaciones y te ofrecemos un acompañamiento especializado, discreto y eficaz para poner fin al acoso y obtener la reparación que mereces.",
+      "keyPoints": [
+        "Te ayudamos a identificar y documentar todas las situaciones de acoso",
+        "Diseñamos una estrategia legal específica para tu caso de mobbing",
+        "Reclamamos indemnizaciones por los daños psicológicos y profesionales sufridos",
+        "Buscamos medidas cautelares para protegerte mientras se resuelve el caso",
+        "Ofrecemos total confidencialidad y sensibilidad en el tratamiento de tu situación"
+      ]
+    },
+    {
+      "title": "Bajas Médicas y Incapacidades",
+      "description": "Gestión de bajas laborales, incapacidades temporales y permanentes",
+      "content": "Asesoramiento integral en bajas médicas, conflictos con mutuas, incapacidades permanentes y recursos ante la Seguridad Social por prestaciones denegadas.",
+      "icon": "heart-pulse",
+      "hasPage": true,
+      "slug": "bajas-medicas-incapacidades",
+      "extendedIntroduction": "Cuando tu salud se ve afectada y necesitas una baja médica, lo último que deberías preocuparte es por los trámites legales. Sin embargo, a menudo surgen problemas con las mutuas, denegaciones injustificadas o conflictos sobre la duración de la baja. En LHC Legal & Consulting te acompañamos en todos estos procesos, defendiendo tu derecho a la protección social y asegurándonos de que recibas las prestaciones que te corresponden.",
+      "keyPoints": [
+        "Te asesoramos en todos los trámites relacionados con tu baja médica",
+        "Defendemos tus derechos frente a las mutuas y la Seguridad Social",
+        "Recurrimos denegaciones injustificadas de prestaciones por incapacidad",
+        "Gestionamos solicitudes de incapacidad permanente cuando procede",
+        "Te ayudamos a entender tus derechos y opciones en cada momento del proceso"
+      ]
+    },
+    {
+      "title": "Contratos y Convenios",
+      "description": "Revisión de contratos laborales, convenios colectivos y condiciones de trabajo",
+      "content": "Análisis y negociación de contratos de trabajo, aplicación de convenios colectivos, clasificación profesional y condiciones salariales.",
+      "icon": "file-text",
+      "hasPage": true,
+      "slug": "contratos-convenios",
+      "extendedIntroduction": "Tu contrato de trabajo es la base de tu relación laboral, pero no siempre es fácil entender todos sus términos y condiciones. Además, el convenio colectivo de tu sector puede establecer derechos adicionales que desconoces. En LHC Legal & Consulting revisamos tu contrato y analizamos si se están aplicando correctamente todas las condiciones que te favorecen, desde el salario hasta las vacaciones, pasando por tu categoría profesional.",
+      "keyPoints": [
+        "Analizamos tu contrato para identificar cláusulas abusivas o ilegales",
+        "Verificamos que se aplique correctamente tu convenio colectivo",
+        "Reclamamos diferencias salariales si tu clasificación profesional es incorrecta",
+        "Te asesoramos sobre tus derechos según tu tipo de contrato",
+        "Negociamos mejores condiciones laborales cuando es posible"
+      ]
+    }
+  ],
+  "otherServices": [
+    {
+      "title": "ERTEs y suspensiones de empleo",
+      "content": "Impugnación de ERTEs improcedentes, defensa de trabajadores afectados y reclamación de prestaciones."
+    },
+    {
+      "title": "Despidos colectivos",
+      "content": "Representación en expedientes de regulación de empleo, negociación de condiciones y recursos judiciales."
+    },
+    {
+      "title": "Extinción del contrato por incumplimiento empresarial",
+      "content": "Resolución del contrato con derecho a indemnización por incumplimientos graves de la empresa."
+    },
+    {
+      "title": "Clasificación profesional",
+      "content": "Reclamación de categoría profesional superior, reclasificación y diferencias salariales correspondientes."
+    },
+    {
+      "title": "Tiempo de trabajo",
+      "content": "Reclamación por exceso de jornada, descansos no respetados, vacaciones y permisos denegados."
+    },
+    {
+      "title": "Seguridad y salud laboral",
+      "content": "Reclamaciones por accidentes laborales, enfermedades profesionales y incumplimiento de medidas preventivas."
+    },
+    {
+      "title": "Prestaciones de la Seguridad Social",
+      "content": "Recursos ante denegaciones de pensiones, subsidios por desempleo y otras prestaciones sociales."
+    },
+    {
+      "title": "Conciliación de la vida familiar",
+      "content": "Defensa del derecho a reducciones de jornada, excedencias y permisos por motivos familiares."
+    },
+    {
+      "title": "Trabajadores temporales",
+      "content": "Reclamación de derechos de trabajadores con contratos temporales, fraude de ley y conversión en indefinidos."
+    },
+    {
+      "title": "Representación sindical",
+      "content": "Asesoramiento a delegados de personal, comités de empresa y representantes sindicales."
+    },
+    {
+      "title": "Conflictos colectivos",
+      "content": "Participación en conflictos colectivos, huelgas y negociación de convenios colectivos."
+    },
+    {
+      "title": "Tribunales laborales",
+      "content": "Representación completa en Juzgados de lo Social, Tribunales Superiores de Justicia y Tribunal Supremo."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Cuánto tiempo tengo para reclamar un despido improcedente?",
+      "answer": "Tienes 20 días hábiles desde la fecha de despido para interponer demanda por despido. Pasado este plazo, solo podrás reclamar cantidades adeudadas pero no la improcedencia del despido."
+    },
+    {
+      "question": "¿Qué indemnización me corresponde por despido improcedente?",
+      "answer": "En despido improcedente, la indemnización es de 33 días de salario por año trabajado, con un máximo de 24 mensualidades. Si el contrato es anterior a 2012, pueden aplicarse condiciones más favorables."
+    },
+    {
+      "question": "¿Puedo reclamar si llevo menos de un año en la empresa?",
+      "answer": "Sí, puedes reclamar independientemente del tiempo trabajado. Incluso con contratos de menos de un año puedes reclamar despido improcedente, cantidades adeudadas y otros conceptos laborales."
+    },
+    {
+      "question": "¿Qué hacer si mi empresa no me paga las nóminas?",
+      "answer": "Puedes reclamar inmediatamente los salarios adeudados y, si la situación se prolonga, solicitar la extinción del contrato con derecho a indemnización por incumplimiento empresarial."
+    },
+    {
+      "question": "¿Puedo reclamar si firmé la baja voluntaria?",
+      "answer": "Depende de las circunstancias. Si firmaste bajo presión, engaño o coacción, podemos impugnar esa baja voluntaria y convertirla en despido improcedente con derecho a indemnización."
+    },
+    {
+      "question": "¿Qué hacer si sufro acoso laboral?",
+      "answer": "Es fundamental documentar todas las situaciones de acoso, buscar testigos y comunicarlo por escrito a la empresa. Te ayudamos a recopilar pruebas y a reclamar tanto la cesación del acoso como una indemnización."
+    }
+  ],
+  "cta": {
+    "title": "¿Tu empresa vulnera tus derechos laborales?",
+    "description": "No permitas que pisotean tus derechos. Nuestros especialistas laborales analizarán tu caso sin coste y te ofrecerán la mejor estrategia de defensa."
+  },
+  "seo": {
+    "metaTitle": "Abogado Laboralista Madrid | Despidos Improcedentes | LHC Legal",
+    "metaDescription": "Especialistas en derecho laboral Madrid. Defendemos despidos improcedentes, reclamaciones salariales y contratos. Defensa integral de trabajadores. Consulta gratuita.",
+    "keywords": [
+      "abogado laboralista madrid",
+      "despido improcedente",
+      "reclamación cantidad laboral",
+      "abogado laboral madrid",
+      "demanda laboral",
+      "indemnización despido",
+      "acoso laboral mobbing",
+      "modificación sustancial",
+      "reclamar finiquito",
+      "LHC Legal Madrid"
+    ],
+    "canonicalUrl": "https://lhclegal.es/areas/derecho-laboral",
+    "ogImage": "https://res.cloudinary.com/lhclegal/image/upload/v1/og-images/derecho-laboral.webp",
+    "structuredData": {
+      "serviceType": "Derecho Laboral",
+      "description": "Servicios especializados en derecho laboral, despidos y reclamaciones salariales",
+      "areaServed": "Madrid, España",
+      "provider": {
+        "name": "LHC Legal & Consulting",
+        "url": "https://lhclegal.es",
+        "telephone": "+34691818071"
+      }
+    }
+  }
+}
